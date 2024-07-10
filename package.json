@@ -1,0 +1,14 @@
+{
+  "name": "minecraft-bot",
+  "version": "1.0.0",
+  "description": "A Minecraft bot to keep the server active",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "mineflayer": "^3.11.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
